@@ -5,6 +5,8 @@ DMM（dmm.co.jp）是日本最大的影片商城，其所售影片都提供了1-
 
 由于预览片只有几分钟，让你彻底摆脱找片2小时，撸片5分钟的尴尬，所有看到的内容都是全片的精华部分。
 
+https://github.com/tudi1909/DmmVideoPreview.git
+
 ## 演示网站
 https://dmm.yzyz.ml
 
